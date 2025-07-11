@@ -5,7 +5,7 @@
     },
     "registry": {
         "did:webvh:QmcDtBLpouaRKRcRqchY5ndjDZZebBR4kQFqUk4vS33WRJ:identity.foundation:didwebvh-implementations:implementations:didwebvh-py": {
-            "name": "DIF DID WebVH Py",
+            "name": "DIF didwebvh-py",
             "url": "https://github.com/decentralized-identity/didwebvh-py",
             "directory": "didwebvh-py"
         }
