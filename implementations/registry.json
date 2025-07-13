@@ -1,13 +1,18 @@
 {
-    "meta": {
-        "created": "2025-07-11T20:52:33Z",
-        "updated": "2025-07-11T21:55:13Z"
+  "meta": {
+    "created": "2025-07-11T20:52:33Z",
+    "updated": "2025-07-11T21:55:13Z"
+  },
+  "registry": {
+    "did:webvh:QmcDtBLpouaRKRcRqchY5ndjDZZebBR4kQFqUk4vS33WRJ:identity.foundation:didwebvh-implementations:implementations:didwebvh-py": {
+      "name": "DIF didwebvh-py",
+      "url": "https://github.com/decentralized-identity/didwebvh-py",
+      "directory": "didwebvh-py"
     },
-    "registry": {
-        "did:webvh:QmcDtBLpouaRKRcRqchY5ndjDZZebBR4kQFqUk4vS33WRJ:identity.foundation:didwebvh-implementations:implementations:didwebvh-py": {
-            "name": "DIF didwebvh-py",
-            "url": "https://github.com/decentralized-identity/didwebvh-py",
-            "directory": "didwebvh-py"
-        }
+    "did:webvh:Qmd1FCL9Vj2vJ433UDfC9MBstK6W6QWSQvYyeNn8va2fai:identity.foundation:didwebvh-implementations:implementations:affinidi-didwebvh-rs": {
+      "name": "Affinidi didwebvh-rs",
+      "url": "https://github.com/affinidi/crates/affinidi-did-resolver/affinidi-did-resolver-methods/did-webvh",
+      "directory": "affinidi-didwebvh-rs"
     }
+  }
 }
