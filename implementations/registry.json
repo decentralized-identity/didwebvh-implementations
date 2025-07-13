@@ -8,6 +8,10 @@
             "name": "DIF didwebvh-py",
             "url": "https://github.com/decentralized-identity/didwebvh-py",
             "directory": "didwebvh-py"
+        },
+        "did:webvh:QmVG236sqSgkoi1iAXVZWGv6G6YgoQu6RujhogD4eeyoiY:identifier.me:demo:001": {
+            "name": "DIF didwebvh-server-py",
+            "url": "https://github.com/decentralized-identity/didwebvh-server-py"
         }
     }
 }
