@@ -9,6 +9,10 @@
       "url": "https://github.com/decentralized-identity/didwebvh-py",
       "directory": "didwebvh-py"
     },
+    "did:webvh:QmVG236sqSgkoi1iAXVZWGv6G6YgoQu6RujhogD4eeyoiY:identifier.me:demo:001": {
+      "name": "DIF didwebvh-server-py",
+      "url": "https://github.com/decentralized-identity/didwebvh-server-py"
+    },
     "did:webvh:Qmd1FCL9Vj2vJ433UDfC9MBstK6W6QWSQvYyeNn8va2fai:identity.foundation:didwebvh-implementations:implementations:affinidi-didwebvh-rs": {
       "name": "Affinidi didwebvh-rs",
       "url": "https://github.com/affinidi/crates/affinidi-did-resolver/affinidi-did-resolver-methods/did-webvh",
