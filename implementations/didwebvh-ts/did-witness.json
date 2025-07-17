@@ -1,0 +1,23 @@
+[
+  {
+    "versionId": "7-QmTymp8X3TnafPMvFGyjExZEE5wF87mbiAxpNjubkXDdds",
+    "proof": [
+      {
+        "type": "DataIntegrityProof",
+        "cryptosuite": "eddsa-jcs-2022",
+        "created": "2025-07-16T18:56:15.882Z",
+        "proofPurpose": "authentication",
+        "verificationMethod": "did:key:z6MkfHYut5Pi8DsUY82GRyBjkd6HMSw6fi6wrBWrx5vuig9i#z6MkfHYut5Pi8DsUY82GRyBjkd6HMSw6fi6wrBWrx5vuig9i",
+        "proofValue": "z59QwhSx9dQgaxnrZ9oEePZnno6omCyTV12814qoLpherUjBigmFjybxDDzcfp451DYZ88mZbYf5bGUiJwC4GZh93"
+      },
+      {
+        "type": "DataIntegrityProof",
+        "cryptosuite": "eddsa-jcs-2022",
+        "created": "2025-07-16T18:56:15.889Z",
+        "proofPurpose": "authentication",
+        "verificationMethod": "did:key:z6MkwHgreCcUn41hCGwWdu7jQyCKsbxCKPpGwgi2aGB9o1p3#z6MkwHgreCcUn41hCGwWdu7jQyCKsbxCKPpGwgi2aGB9o1p3",
+        "proofValue": "z21KXs2wZwLVwg3YAcMNU5V9tgNWiP2oRCUJKBUaC573ymPKBrwpPZ3iVoHaeHChWqbEe6cSGcmMTeF5ByuuesHKS"
+      }
+    ]
+  }
+]
