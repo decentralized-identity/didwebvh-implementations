@@ -18,7 +18,7 @@
       "url": "https://github.com/affinidi/crates/affinidi-did-resolver/affinidi-did-resolver-methods/did-webvh",
       "directory": "affinidi-didwebvh-rs"
     },
-    "did:webvh:QmUjugNxrWvTveyVnFEMj5xCJ1fZyvPaUN5MNzu6c5XCTW:identity.foundation:didwebvh-implementations:implementations:didwebvh-ts": {
+    "did:webvh:QmRYeabNZ8KSFrLXxWAK1VB5vx4XmU4w389T5xhp5qwVGS:identity.foundation:didwebvh-implementations:implementations:didwebvh-ts": {
       "name": "DIF didwebvh-ts",
       "url": "https://github.com/decentralized-identity/didwebvh-ts",
       "directory": "didwebvh-ts"
